@@ -1,0 +1,54 @@
+body{
+  
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #FB9B8F;
+}
+
+header{
+  background-color: #FFF7CD;
+  text-align: center;
+  border-radius: 0px 0px 50px 50px;
+  border-bottom: 5px #FB9B8F dotted  ;
+  padding: 10px;
+}
+
+#first{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding-top: 30px;
+  background-color: #F57799;
+  margin-top: 30px;
+  border-radius: 50px;
+  color: #FFF7CD;
+  
+}
+img{
+  width:30px ;
+  height: 30px;
+  margin-bottom: 20px;
+}
+
+.second{
+  background-color: #547792;
+  margin-top: 30px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.hobbies{
+  background-color: #FDC3A1;
+  margin-top: 30px;
+  padding: 50px;
+  border-radius: 5px 500px 5px 500px;
+  border: 5px #FFF7CD solid;
+  
+footer{
+  background-color: #FDACAC;
+  margin-top: 20px;
+  padding: 30px;
+    border-radius: 5px 50px 5px 50px;
+}
+  
+}
