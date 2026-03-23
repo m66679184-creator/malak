@@ -1,0 +1,7 @@
+let name = prompt("enter your name?")
+let age = prompt("enter your age?")
+
+document.write("hello" + name)
+document.write("<br>")
+document.write("she is" + age + "years old")
+
