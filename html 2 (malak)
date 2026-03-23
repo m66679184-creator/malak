@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    
+    <header>
+      <h1>Malak Ahmed</h1>
+      <p>i'm software engineer</p>
+    </header>
+    
+    <div id="first">
+      <img src="https://static.thenounproject.com/png/104631-200.png">
+      <p>about</p>
+      <p>projects</p>
+      <p>hobbies</p>
+    </div>
+    
+    <div class="second">
+      <h1>about me</h1>
+      <p>i'm Malak Ahmed</p>
+    </div>
+    
+<div class = "hobbies">
+  <h1>my hobbies</h1>
+  <ul>
+    <li>swimming</li>
+    <li>basket ball</li>
+  </ul>
+</div>
+
+<footer>
+  <h1> all copy right with ......</h1>
+  <h2>contact us</h2>
+  
+   <a href="https://fontawesome.com/">
+     <i class="fa-brands fa-facebook"></i>
+   </a>
+   
+   
+  <a href="https://www.facebook.com/Goshksa">
+    <i class="fa-brands fa-instagram"></i>
+  </a>
+</footer>
+
+    <script src="script.js"></script>
+
+  </body>
+</html>
+
+
